@@ -1,6 +1,6 @@
 # ECE-227-Project
 
-#### PLEASE Do not upload files directly to overwrite the original files, please submit a pull request
+#### PLEASE DO NOT upload files directly to overwrite the original files, please submit a pull request
 
 **Please submit your documents according to the following structure:**
 ```
