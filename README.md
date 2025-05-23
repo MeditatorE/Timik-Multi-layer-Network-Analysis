@@ -12,9 +12,5 @@
 ```
 
 #### Network Dataset Resource:
-
 https://www.nature.com/articles/sdata2017144#MOESM65
-
-https://snap.stanford.edu/data/higgs-twitter.html
-
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/V6AJRV
