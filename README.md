@@ -20,9 +20,9 @@ cd Timik-Multi-layer-Network-Analysis-main
 jupyter notebook
 ```
 
-3. Select any of the following files to run:
+3. Run [Mutilayer_analysis.ipynb](https://github.com/MeditatorE/Timik-Multi-layer-Network-Analysis/Mutilayer_analysis.ipynb)
 #### File Description 
-- `model`: This folder contains all the original and modified model code.
+- `Mutilayer_analysis.ipynb`: Files used to analyze node centrality, including multi-level and single-level degree centrality, between centrality, eigenvector centrality. It is recommended to run it first before other files.
 
 - `demo/attention`: This folder contains test code and demonstration files for testing the replacement attention mechanism.
 
