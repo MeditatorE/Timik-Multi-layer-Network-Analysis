@@ -25,7 +25,7 @@ jupyter notebook
 #### File Description 
 - `Mutilayer_analysis.ipynb`: Files used to analyze node centrality, including multi-level and single-level degree centrality, between centrality, eigenvector centrality. It is recommended to run it first before other files.
 
-- `demo/attention`: This folder contains test code and demonstration files for testing the replacement attention mechanism.
+- `Mutilayer_centrally_3D.ipynb`: Used to improve between centrality and realize 3D visualization of network structure.
 
 - `demo/activition`: This folder contains test code and demonstration files for testing the replacement activation function.
 
