@@ -39,3 +39,12 @@ jupyter notebook
 
 - `table`: Contains the top 100 most central points in different centrality analyses of single-layer networks and multi-layer networks stored in .csv file format.
 
+## Conclusion
+In this study, we conducted a comprehensive analysis of a multi-layer social network derived from five distinct interaction types. Our investigation included classical centrality measures such as degree centrality, betweenness centrality, and eigenvector centrality, which allowed us to quantify node importance from both local and global perspectives.
+
+We further examined the distributional characteristics of each layer to better understand the heterogeneity of node behaviors across different types of interactions. To enhance interpretability, we visualized the structural properties of the network using interactive 3D visualizations, revealing latent spatial and topological patterns.
+
+Finally, we applied spectral clustering based on the normalized Laplacian matrix to detect communities within the fused multi-layer structure. This approach successfully uncovered cohesive subgroups, demonstrating the effectiveness of Laplacian-based embeddings in capturing multi-relational community structures.
+
+Overall, our multi-dimensional analysis provides valuable insight into both individual-level roles and global-level modular organization within the multi-layer network.
+
