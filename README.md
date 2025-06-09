@@ -29,4 +29,4 @@ jupyter notebook
 
 - `Mutilayer_analysis_new.ipynb`: Contains comprehensive analysis and visualization of network centrality at each layer.
 
-- `demo/encoding`:This folder contains test code and demonstration files for testing the replacement encoding method.
+- `Commuity_algrithm.ipynb`:Community identification algorithm based on spectral clustering and its 3D visualization.
