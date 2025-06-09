@@ -27,6 +27,6 @@ jupyter notebook
 
 - `Mutilayer_centrally_3D.ipynb`: Used to improve between centrality and realize 3D visualization of network structure.
 
-- `demo/activition`: This folder contains test code and demonstration files for testing the replacement activation function.
+- `Mutilayer_analysis_new.ipynb`: Contains comprehensive analysis and visualization of network centrality at each layer.
 
 - `demo/encoding`:This folder contains test code and demonstration files for testing the replacement encoding method.
