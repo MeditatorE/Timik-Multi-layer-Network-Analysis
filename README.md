@@ -31,9 +31,11 @@ jupyter notebook
 
 - `Commuity_algrithm.ipynb`: Community identification algorithm based on spectral clustering and its 3D visualization.
   
-- `distribution.ipynb`: Analysis and visualization of network distribution
+- `distribution.ipynb`: Analysis and visualization of network distribution.
 
-- `html`: Contains 3D visualization images of the centrality analysis and community identification results of multi-layer networks. **Please download .html and open it with your browser**
+- `html`: Contains 3D visualization images of the centrality analysis and community identification results of multi-layer networks. **Please download .html and open it with your browser.**
 
-- `picture`: 
+- `figures`: Contains visualization of centrality analysis of a single-layer network.
+
+- `table`: Contains the top 100 most central points in different centrality analyses of single-layer networks and multi-layer networks stored in .csv file format.
 
