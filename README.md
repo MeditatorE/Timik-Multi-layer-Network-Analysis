@@ -1,17 +1,8 @@
-# ECE-227-Project
+# Timik-Multi-layer-Network-Analysis
 
-#### PLEASE DO NOT upload files directly to overwrite the original files, please submit a pull request
+This project provides code support for analyzing the community structure, distribution pattern, and network centrality of Timik Multi-level network
 
-**Please submit your documents according to the following structure:**
-```
-/main/
-├── Other files
-├── README.md
-└── YOUR FLODER
-    └── YOUR FILE
-```
+## Dataset Resource
+**Paper:** [https://www.nature.com/articles/sdata2017144#MOESM65](https://www.nature.com/articles/sdata2017144#MOESM65)
 
-#### Network Dataset Resource:
-https://www.nature.com/articles/sdata2017144#MOESM65
-
-https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/V6AJRV
+**Data Source:** [https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/V6AJRV](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/V6AJRV)
